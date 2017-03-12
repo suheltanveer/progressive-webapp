@@ -1,6 +1,6 @@
 import React from 'react'
 
-import styles from './Post.css'
+// import styles from './Post.css'
 
 const Post = () => (
   <div>
